@@ -12,6 +12,7 @@ This project is the final product of a demonstration given at college campuses f
 1. Check if you have Node installed: run ```node -v``` to check your version. If not, go here: https://nodejs.org/en/download/ and install the version for your OS
 2. Once Node is installed, run ```npm install``` to install your package dependencies
 3. Run ```node api.js``` to run your API - you can then hit it with Postman, etc.
+4. Download Postman here: https://www.getpostman.com/ to hit your API endpoints
 
 For additional guides on Node such as how to add Docker, check out there site here: https://nodejs.org/en/docs/guides/
 
