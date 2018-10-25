@@ -13,7 +13,9 @@ This project is the final product of a demonstration given at college campuses f
 2. Once Node is installed, run ```npm install``` to install your package dependencies
 3. Run ```node api.js``` to run your API - you can then hit it with Postman, etc.
 
-For additional guides on Node such as how to add Docker check out there site here: https://nodejs.org/en/docs/guides/
+For additional guides on Node such as how to add Docker, check out there site here: https://nodejs.org/en/docs/guides/
+
+For commonly asked questions and additional guides on Express such as how to implement authentication, check out there site here: http://expressjs.com/en/starter/faq.html
 
 
 ## To Apply
