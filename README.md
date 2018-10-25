@@ -9,8 +9,7 @@ This project is the final product of a demonstration given at college campuses f
 
 ## To run locally
 
-1. Check if you have Node installed: run ```node -v``` to check your version
-    a. If not, go here: https://nodejs.org/en/download/ and install the version for your OS
+1. Check if you have Node installed: run ```node -v``` to check your version. If not, go here: https://nodejs.org/en/download/ and install the version for your OS
 2. Once Node is installed, run ```npm install``` to install your package dependencies
 3. Run ```node api.js``` to run your API - you can then hit it with Postman, etc.
 
